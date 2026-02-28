@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "徳川カップヌードル禁止令",
+  "base_artist": "草薙寧々、ネネロボ、ミクダヨー、鏡音レン、KAITO",
+  "createdAt": "2026-02-28T09:56:50.407285Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "徳川カップヌードル禁止令",
+      "artist": "草薙寧々、ネネロボ、ミクダヨー、鏡音レン、KAITO",
+      "has_synced": false,
+      "path": "select/pl_01_徳川カップヌードル禁止令_草薙寧々、ネネロボ、ミクダヨー、鏡音レン、KAITO.txt"
+    }
+  ]
+}
